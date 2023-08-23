@@ -55,9 +55,6 @@ Below are steps taken to build this project
 
 [Youtube-Link](https://www.youtube.com/watch?v=ltktrNRSWEU)
 
-## Author Linkedin URL 
-
-Linkedin URL - https://www.linkedin.com/in/utkarsh-gaikwad-61194bbb
 
 ## Author
 
